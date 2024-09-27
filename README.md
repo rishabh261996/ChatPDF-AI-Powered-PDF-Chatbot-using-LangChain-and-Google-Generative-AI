@@ -75,6 +75,10 @@ chatpdf-ai/
 └── README.md              # Project README file
 ```
 
+## 📹 Demo Video
+[![ChatPDF Demo](https://youtu.be/2lUpNpEhEck)
+
+
 ## 🤝 **Contributing**
 Contributions are welcome! If you have any suggestions, feel free to open an issue or submit a pull request.
 

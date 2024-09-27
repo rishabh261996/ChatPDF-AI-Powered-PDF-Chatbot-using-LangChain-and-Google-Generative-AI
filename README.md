@@ -76,7 +76,7 @@ chatpdf-ai/
 ```
 
 ## 📹 Demo Video
-[![ChatPDF Demo](https://youtu.be/2lUpNpEhEck)
+![ChatPDF Demo](https://youtu.be/2lUpNpEhEck)
 
 
 ## 🤝 **Contributing**

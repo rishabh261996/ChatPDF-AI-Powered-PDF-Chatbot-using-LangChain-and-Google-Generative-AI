@@ -78,8 +78,7 @@ chatpdf-ai/
 ## 🤝 **Contributing**
 Contributions are welcome! If you have any suggestions, feel free to open an issue or submit a pull request.
 
-## 📄 **License**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## 🌐 **Connect with Us**
 - [GitHub Issues](https://github.com/rishabh261996): Have a question or suggestion? Let us know!

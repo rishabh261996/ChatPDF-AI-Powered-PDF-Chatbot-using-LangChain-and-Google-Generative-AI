@@ -91,7 +91,7 @@ Contributions are welcome! If you have any suggestions, feel free to open an iss
 
 ## 📧 **Contact**
 
-For any inquiries, you can reach out to [your-email@example.com](guptarishabh261996@gmail.com).
+For any inquiries, you can reach out to [mail](guptarishabh261996@gmail.com).
 
 ---
 
